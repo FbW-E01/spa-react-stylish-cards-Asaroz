@@ -1,0 +1,32 @@
+{
+  "name": "spa-react-stylish-cards-asaroz",
+  "version": "1.0.0",
+  "description": "- Initialize the react app from scratch\r - Use functional components\r - Create the four different cards using four different techniques. \r - You don't have to follow the example exactly, but do actually make all of them distinctly different.\r - Use separate components for separate cards, such as `<StyledComponentsCard />`",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "sass": "^1.35.2",
+    "styled-components": "^5.3.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

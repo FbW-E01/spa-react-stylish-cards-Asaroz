@@ -1,0 +1,28 @@
+img{
+    width: 100%;
+    object-fit: cover;
+}
+.cards {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 300px;
+    border-radius: 10px;
+    border: 2px black solid;
+  }
+  
+
+  .cards:hover {
+    box-shadow: 0 5px 16px 0 rgba(0,0,0,0.5);
+  }
+
+  .container {
+    padding: 2px 16px;
+    background: rgb(138, 137, 170);
+    height:150px;
+
+  }
+  .wrapper{
+      margin-top: 50px;
+      display:flex;
+      justify-content: space-around;
+  }
